@@ -3,7 +3,7 @@
 The Sign Language Recognition App is a machine learning based tool designed to recognize and translate the gestures into text. The app uses deep learning models trained on video data to identify specific hand gestures and predict the corresponding sign language word or text.
 
 ## Motivation
-Communication barriers faced by hearing-impaired individuals often limit their interaction in daily life. This project is motivated by the need to build an intelligent system that can automatically recognize sign language gestures and convert them into text, thereby making communication more inclusive and accessible with the help of AI and computer vision.
+Communication barriers faced by hearing impaired individuals often limit their interaction in daily life. This project is motivated by the need to build an intelligent system that can automatically recognize sign language gestures and convert them into text, thereby making communication more inclusive and accessible with the help of AI and computer vision.
 
 
 ### Features
