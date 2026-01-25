@@ -27,7 +27,7 @@ Communication barriers faced by hearing impaired individuals often limit their i
 
 ---
 
-### Installation and Usage
+### Installation and Usage :
 
 #### Prerequisites
 - **Python latest Version**: 
